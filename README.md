@@ -15,10 +15,10 @@ Of course, not an alien language.
 
 <h3>Connect with Santana:</h3>
 
-<a href="https://www.linkedin.com/in/mochamad-santana">
+<a href="https://www.linkedin.com/in/msantanais">
     <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:santana131001@gmail.com">
+<a href="mailto:13.msantanais@gmail.com">
   <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/msantanais_">
