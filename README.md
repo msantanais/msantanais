@@ -2,7 +2,7 @@
 
 This is Santana's profile
 
-### The language that Santana's understand
+### The language that Santana understand
 
 Of course, not an alien language.
 
